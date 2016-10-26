@@ -1,5 +1,7 @@
 name,display_name,file,object,full_summary,main_table,on_load,description
-macr,"MACR Main Database",macr_pii.Rdata,macr,1,1,,"* The MACR contains only the most serious offense based on the severity of possible punishment for retention.
+macr,"MACR Main Database",macr_pii.Rdata,macr,1,1,,"Words
+
+* The MACR contains only the most serious offense based on the severity of possible punishment for retention.
 * MACR data began to be stored in a digital format in 1980. The dataset spans 1980 to the present.
 
 Historical changes:
